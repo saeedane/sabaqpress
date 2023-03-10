@@ -100,6 +100,26 @@ ul {
 .image-thumbnail img{
   height: 100% !important;
 }
+
+
+.vc-sabaqpress-w1400{
+  max-width: 1400px !important;
+}
+
+.vc-sabaqpress-w1170{
+  max-width: 1170px !important;
+}
+
+.sabaqpress-vc-container{
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+
 /* header page css */
 .header-top .header__date{
   font-family: 'sabaq-press-normal';
