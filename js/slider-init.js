@@ -13,10 +13,9 @@ jQuery(function() {
         autoplay: false,
         dots: false,
         nav: true,
-        navText: ["<img src='assets/img/icons/chevron-right.svg' width='24' height='24' >","<img src='assets/img/icons/chevron-left.svg' width='24' height='24' >"]
+        navText: ["<img src='https://cdn.statically.io/gh/saeedane/sabaqpress/41fcaed7/img/icons/chevron-left.svg' width='24' height='24' >","<img src='https://cdn.statically.io/gh/saeedane/sabaqpress/41fcaed7/img/icons/chevron-right.svg' width='24' height='24' >"]
     });
 
-   
 
 
     jQuery('.owl-carousel').owlCarousel({
@@ -30,7 +29,7 @@ jQuery(function() {
         autoplay: false,
         dots: false,
         nav: true,
-        navText: ["<img src='assets/img/icons/chevron-left.svg' width='24' height='24'>","<img src='assets/img/icons/chevron-right.svg' width='24' height='24'>"]
+        navText: ["<img src='https://cdn.statically.io/gh/saeedane/sabaqpress/41fcaed7/img/icons/chevron-left.svg' width='24' height='24'>","<img src='https://cdn.statically.io/gh/saeedane/sabaqpress/41fcaed7/img/icons/chevron-right.svg' width='24' height='24'>"]
     });
 
 
