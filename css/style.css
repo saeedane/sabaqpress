@@ -164,7 +164,9 @@ align-items: center;
   .testimony-29101 .image {
     width: 100%;
     background-size: cover;
-    background-position: center center; }
+    background-position: center center;
+  height: 460px;
+  }
     @media (max-width: 991.98px) {
       .testimony-29101 .image {
         height: 300px; } }
