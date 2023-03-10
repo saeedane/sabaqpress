@@ -1,8 +1,8 @@
-$(function() {
+jQuery(function() {
 
-    var owl = $('.slide-one-item');
+    var owl = jQuery('.slide-one-item');
 
-    $('.slide-one-item').owlCarousel({
+    jQuery('.slide-one-item').owlCarousel({
         center: false,
         rtl:true,
         items: 1,
@@ -19,7 +19,7 @@ $(function() {
    
 
 
-    $('.owl-carousel').owlCarousel({
+    jQuery('.owl-carousel').owlCarousel({
         center: false,
         rtl:true,
         items: 3,
