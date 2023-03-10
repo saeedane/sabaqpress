@@ -187,11 +187,10 @@ align-items: center;
   }
 
 
-  .testimony-29101 .image-text blockquote h1 a{
+  .testimony-29101 .image-text blockquote h1 {
     margin-block: 20px;
     line-height: 4rem;
     font-size: 30px;
-    color: white;
 
   }
 
