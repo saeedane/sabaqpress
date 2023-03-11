@@ -320,11 +320,12 @@ border-radius: 0px !important;
 
 .hero-bottom-card .list__item .card .card-body .category__link{
   margin-top: 10px;
+  margin-left: auto;
 }
 
 .hero-bottom-card .list__item .card .card-body{
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
   min-height: 100px;
 }
 
