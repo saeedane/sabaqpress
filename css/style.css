@@ -650,11 +650,11 @@ height: 233px;
  }
 
  .squere-vertical-beg .list__item .article__card:first-child .card-body{
-  min-height: 182px !important;
+  min-height: 159px !important;
   padding: 30px;
   display: flex;
   flex-direction: column;
-
+height: auto;
  }
 
 
