@@ -327,7 +327,6 @@ border-radius: 0px !important;
 
 .hero-bottom-card .list__item .card .card-body .category__link{
   margin-top: 10px;
-  margin-left: auto;
 }
 
 .hero-bottom-card .list__item .card .card-body .card-title{
@@ -347,6 +346,8 @@ border-radius: 0px !important;
   font-family: 'sabaq-press-normal';
   color: #888d91;
   margin-bottom: auto;
+  margin-left: auto;
+
 
 }
 .hero-section .hero-bottom-card .card-title,.squere-vertical-beg .card-title,.rectangle-card-beg  .card-title,.squere-vertical  .card-title{
