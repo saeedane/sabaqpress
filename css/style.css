@@ -759,7 +759,7 @@ height: 233px;
 
 }
 
-.category-video  .article__hero .card-body .card-title{
+.category-video  .article__hero .article__card .card-body a{
   margin-top: auto;
 }
 
