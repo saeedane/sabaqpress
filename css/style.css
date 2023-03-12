@@ -741,15 +741,10 @@ height: 233px;
 .category-video  .widgetSideTitle h2{
   background-color: red;
 }
-.category-video  .newsWithAds{
-  display: flex;
-  flex-wrap: wrap;
-}
+
 
 .category-video  .newsWithAds .article__hero
 {
-  width: 68%;
-  margin-left: auto;
   position: relative;
 }
 
@@ -762,6 +757,10 @@ height: 233px;
   justify-content: center;
   height: 77px;
 
+}
+
+.category-video  .article__hero .card-body a{
+  margin-top: auto;
 }
 
 .category-video  .newsWithAds .article__hero .card-body .card-title{
