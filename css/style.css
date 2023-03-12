@@ -320,6 +320,7 @@ align-items: center;
  .hero-bottom-card .owl-carousel .owl-item img{
 height: 184px;
 border-radius: 0px !important;
+object-fit: cover;
 }
 
 .hero-bottom-card .list__item .card .card-body .category__link{
