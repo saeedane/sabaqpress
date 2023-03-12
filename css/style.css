@@ -406,7 +406,7 @@ border-radius: 0px !important;
 
 .squere-vertical ul , .squere-vertical-beg .list__item{
   display: grid;
-  grid-column-gap: 35px;
+  grid-column-gap: 65px;
   grid-row-gap: 25px;
 
 }
