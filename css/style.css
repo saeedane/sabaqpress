@@ -747,7 +747,7 @@ height: 233px;
   position: relative;
 }
 
-.category-video  .newsWithAds .article__hero .card-body{
+.category-video  .article__hero .card-body{
   position: absolute;
   bottom: 0px;
   width: 100%;
