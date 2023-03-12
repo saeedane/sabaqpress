@@ -642,7 +642,7 @@ height: 233px;
   height: auto;
  }
  .squere-vertical-beg .list__item {
-  grid-template-columns: 730px 345px;
+  grid-template-columns: 740px 360px;
   grid-template-areas:
       "main-article section-article-1"
       "main-article section-article-2";
