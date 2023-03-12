@@ -413,6 +413,7 @@ border-radius: 0px !important;
   display: grid;
   grid-column-gap: 60px;
   grid-row-gap: 25px;
+  overflow: hidden;
 
 }
 .squere-vertical ul{
