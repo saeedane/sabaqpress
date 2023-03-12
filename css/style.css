@@ -366,6 +366,7 @@ border-radius: 0px !important;
   font-size: 11px;
   font-family: 'sabaq-press-normal';
   margin-top: auto;
+  margin-bottom: auto;
 }
 .squere-vertical  .list__item .article__date,.rectangle-card-beg  .hero-top-card .article__date{
   color: white !important;
