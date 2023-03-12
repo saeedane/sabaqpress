@@ -77,10 +77,7 @@ ul {
 .mobileOnly {
     display: none !important;
 }
-.card-body{
-  padding: 15px;
-  padding-top: 4px;
-}
+
 
 .article__date{
   align-items: center !important;
@@ -117,6 +114,16 @@ ul {
   margin-right: auto;
   margin-left: auto;
 }
+
+
+.card-body{
+  display: flex;
+  flex-direction: column;
+  min-height: 100px;
+  padding: 15px;
+  padding-top: 4px;
+}
+
 
 
 
@@ -321,12 +328,6 @@ border-radius: 0px !important;
 .hero-bottom-card .list__item .card .card-body .category__link{
   margin-top: 10px;
   margin-left: auto;
-}
-
-.hero-bottom-card .list__item .card .card-body{
-  display: flex;
-  flex-direction: column;
-  min-height: 100px;
 }
 
 .hero-bottom-card .list__item .card .card-body .card-title{
