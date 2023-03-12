@@ -415,7 +415,6 @@ border-radius: 0px !important;
   grid-column-gap: 60px;
   grid-row-gap: 25px;
   overflow: hidden;
-
 }
 .squere-vertical ul{
   grid-template-columns: 360px 340px;
@@ -425,11 +424,7 @@ border-radius: 0px !important;
 }
 .squere-vertical-beg .list__item .article__card{
     position: relative;
-    
-
 }
-
-
 .squere-vertical ul li:first-child, .squere-vertical-beg .list__item .article__card:first-child{
 grid-area: main-article;
 
@@ -449,7 +444,7 @@ grid-area: main-article;
 }
 .squere-vertical-beg  .list__item .article__card:first-child .card-title{
   margin-top: auto;
-
+margin-left: auto;
 }
 
 .squere-vertical-beg .list__item .article__card .category__link{
