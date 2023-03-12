@@ -368,6 +368,7 @@ object-fit: cover;
   font-family: 'sabaq-press-normal';
   margin-top: auto;
   margin-bottom: auto;
+  background-attachment: red;
 }
 .squere-vertical  .list__item .article__date,.rectangle-card-beg  .hero-top-card .article__date{
   color: white !important;
