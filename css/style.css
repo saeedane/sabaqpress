@@ -495,7 +495,7 @@ grid-area: main-article;
   border-radius: 0px;
 }
 
-.squere-vertical ul .card__item .card-body{
+.squere-vertical ul .article__card .card-body{
   background: #0746a7;
 bottom: 0px;
 width: 100%;
