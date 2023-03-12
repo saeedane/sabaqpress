@@ -590,6 +590,8 @@ align-items: center;
 .sidebar-widget  .widgetContent .newsList .card-body{
 flex: 1;
 padding: 0px;
+min-height: unset !important;
+
 }
 
 .sidebar-widget  .widgetContent .newsList .article__date img{
