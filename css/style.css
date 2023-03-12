@@ -124,8 +124,6 @@ ul {
 }
 
 
-
-
 /* header page css */
 .header-top .header__date{
   font-family: 'sabaq-press-normal';
@@ -335,6 +333,12 @@ border-radius: 0px !important;
 .hero-bottom-card .article__date{
   margin-top: auto;
 
+}
+
+
+.hero-bottom-card .article__card .card-body{
+  padding: 15px;
+  padding-top: 4px;
 }
 
 
