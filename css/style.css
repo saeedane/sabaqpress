@@ -411,7 +411,7 @@ border-radius: 0px !important;
 
 .squere-vertical ul , .squere-vertical-beg .list__item{
   display: grid;
-  grid-column-gap: 60px;
+  grid-column-gap: 37px;
   grid-row-gap: 25px;
 
 }
@@ -647,7 +647,7 @@ height: 233px;
   height: auto;
  }
  .squere-vertical-beg .list__item {
-  grid-template-columns: 740px 340px;
+  grid-template-columns: 763px 340px;
   grid-template-areas:
       "main-article section-article-1"
       "main-article section-article-2";
