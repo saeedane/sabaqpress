@@ -728,6 +728,7 @@ height: 233px;
 
 .rectangle-card-beg .hero-top-card  .article__date {
   margin-top: auto;
+  margin-bottom: unset !important;
 }
 
 /* section category video */
