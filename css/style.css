@@ -543,11 +543,11 @@ left: 0px;
 } 
 .sidebar-widget  .widgetContent .newsList .newsItem{
 display: block;
-padding: 10px 0;
+padding: 11px 0;
 clear: both;
 margin: 0;
 border-bottom: 1px #eee solid;
-min-height: 90px;
+min-height: 94px;
 
 }
 
