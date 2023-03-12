@@ -363,7 +363,7 @@ object-fit: cover;
 }
 
 .hero-bottom-card .article__date,.squere-vertical-beg .article__date,.rectangle-card-beg  .article__date,.squere-vertical  .article__date {
-  color: #888d91;
+  color: #888d91 !important;
   font-size: 11px;
   font-family: 'sabaq-press-normal';
   margin-top: auto;
