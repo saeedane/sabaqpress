@@ -502,6 +502,11 @@ width: 100%;
 left: 0px;
 }
 
+.squere-vertical ul .article__card:first-child .card-body{
+  min-height: 167px !important;
+
+}
+
 /* custom sidebar */
 .squere-vertical .widgetColum .sidebar-widget{
   overflow: hidden;
