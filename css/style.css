@@ -444,7 +444,6 @@ grid-area: main-article;
 }
 .squere-vertical-beg  .list__item .article__card:first-child .card-title{
   margin-top: auto;
-margin-left: auto;
 }
 
 .squere-vertical-beg .list__item .article__card .category__link{
