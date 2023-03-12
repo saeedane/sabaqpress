@@ -363,7 +363,7 @@ object-fit: cover;
 }
 
 .hero-bottom-card .article__date,.squere-vertical-beg .article__date,.rectangle-card-beg  .article__date,.squere-vertical  .article__date {
-  color: #888d91 !important;
+  color: #888d91 ;
   font-size: 11px;
   font-family: 'sabaq-press-normal';
   margin-top: auto;
@@ -600,6 +600,7 @@ min-height: unset !important;
 }
 .sidebar-widget  .widgetContent .newsList .article__date{
   font-size: 11px;
+  color: #888d91;
 
 }
 
