@@ -601,6 +601,8 @@ min-height: unset !important;
 .sidebar-widget  .widgetContent .newsList .article__date{
   font-size: 11px;
   color: #888d91;
+  font-family: 'sabaq-press-normal';
+
 
 }
 
