@@ -341,6 +341,7 @@ object-fit: cover;
 .hero-bottom-card .article__card .card-body{
   padding: 15px;
   padding-top: 4px;
+  border: 1px solid rgba(0,0,0,.125);
 }
 
 
@@ -425,8 +426,7 @@ object-fit: cover;
 }
 .squere-vertical-beg .list__item .article__card{
     position: relative;
-      border: 1px solid rgba(0,0,0,.125);
-      background: white;
+    
 }
 .squere-vertical ul li:first-child, .squere-vertical-beg .list__item .article__card:first-child{
 grid-area: main-article;
