@@ -807,3 +807,10 @@ height: 233px;
 .category-video .hero-bottom-card  .article__card  .article__thumbnail img{
   height: 100%;
 }
+
+
+/* js composer css */
+
+.vc_col-has-fill>.vc_column-inner, .vc_row-has-fill+.vc_row-full-width+.vc_row>.vc_column_container>.vc_column-inner, .vc_row-has-fill+.vc_row>.vc_column_container>.vc_column-inner, .vc_row-has-fill>.vc_column_container>.vc_column-inner{
+  padding-top: 0px !important;
+}
