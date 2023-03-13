@@ -416,10 +416,12 @@ object-fit: cover;
   overflow: hidden;
 }
 .squere-vertical ul{
-  grid-template-columns: 360px 340px;
+  grid-template-columns: 380px 340px;
   grid-template-areas:
       "main-article section-article-1"
       "main-article section-article-2";
+      grid-column-gap: 30px !important;
+
 }
 .squere-vertical-beg .list__item .article__card{
     position: relative;
