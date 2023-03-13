@@ -329,6 +329,7 @@ object-fit: cover;
 
 .hero-bottom-card .list__item .card .card-body .card-title{
   margin-top: 10px !important;
+  color: #000;
 }
 
 .hero-bottom-card .article__date{
